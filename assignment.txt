@@ -1,0 +1,5 @@
+1. You have a rectangular "box" shown on screen, of a fixed width and height (you choose).
+2. You have a button named "Add ball" centered and placed under the box.
+3. When the user clicks "Add ball", a small "ball" (represented by a filled circle) appears within the box at a random position and starts moving in a random direction with a known fixed speed. 
+4. Whenever the ball collides with the box's wall, it bounces, but otherwise continues along in a straight line at the same speed.
+5. Every time the user clicks "Add ball", add a *new* ball into the box. Each ball so added should be placed randomly, point in a random direction and move at the same speed as every other ball. The balls don't have to bounce when they collide with each other. i.e. They can just pass through each other.
